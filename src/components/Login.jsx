@@ -12,7 +12,7 @@ const Login = () => {
     setUser({ userName, password });
   };
   return (
-    <div>
+    <div className="login">
       <h1>Login</h1>
       <input
         type="text"
