@@ -60,6 +60,7 @@ export const Dashboard = () => {
             alignItems: "center",
           }}
         >
+          <h3 style={{ marginTop: "-600px" }}>Key Performance Indicators</h3>
           <div style={{ margin: "50px" }}>
             <GenderPieChart />
           </div>
