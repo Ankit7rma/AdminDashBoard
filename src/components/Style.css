@@ -19,3 +19,16 @@ input {
     height: 24px;
     border-radius: 5px;
 }
+
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    background-color: thistle;
+    height: 40px;
+    align-items: center;
+}
+
+.chart {
+    display: flex;
+}
